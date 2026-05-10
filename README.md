@@ -15,8 +15,7 @@ Then if running the db setup with the same file structure, use "python app/datab
 Then reload with "uvicorn app.main:app --reload"<br>
 
 
-demo of 5 unique category of operations that will specifically require access to the<br>
-database (The following five operations are mandatory)<br>
+
 Create new entries <br>
 Read existing entries<br>
 Update existing entries<br>
